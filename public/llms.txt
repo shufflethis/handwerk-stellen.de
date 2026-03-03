@@ -1,0 +1,19 @@
+# HR-UPDATER: v1.0
+# handwerk-stellen.de - Handwerk Stellenangebote
+
+> handwerk-stellen.de ist ein spezialisiertes Jobportal fuer Handwerk-Stellenangebote in Deutschland, Oesterreich und der Schweiz.
+
+## Ueber uns
+- Spezialisiertes Jobportal fuer Handwerk
+- Kostenlose Stellensuche fuer Bewerber
+- Gezielte Reichweite fuer Arbeitgeber
+
+## Kontakt
+- Website: https://handwerk-stellen.de
+- Arbeitgeber-Kontakt: https://handwerk-stellen.de/kontakt-arbeitgeber
+- Bewerber-Kontakt: https://handwerk-stellen.de/kontakt-bewerber
+
+## Inhalte
+- Aktuelle Handwerk-Stellenangebote
+- Karriere-Ratgeber fuer Handwerk
+- Gehaltsvergleiche und Brancheninformationen

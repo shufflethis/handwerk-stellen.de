@@ -3,6 +3,8 @@ import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-d
 import Layout from './components/Layout';
 import Home from './pages/Home';
 import Impressum from './pages/Impressum';
+import Datenschutz from './pages/Datenschutz';
+import AutorSeite from './pages/AutorSeite';
 
 // Scroll to top component
 const ScrollToTop = () => {
@@ -21,7 +23,10 @@ const App: React.FC = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/impressum" element={<Impressum />} />
-        </Routes>
+                  {/* // HR-UPDATER: v1.0 */}
+          <Route path="/datenschutz" element={<Datenschutz />} />
+          <Route path="/autor/thomas-sander" element={<AutorSeite />} />
+          </Routes>
       </Layout>
     </Router>
   );
