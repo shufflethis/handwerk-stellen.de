@@ -160,8 +160,8 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             <h3 className="text-white font-semibold mb-4">Rechtliches</h3>
             <ul className="space-y-2 text-sm">
               <li><Link to="/impressum" className="hover:text-brand-400 transition">Impressum</Link></li>
-              <li><Link to="#" className="hover:text-brand-400 transition">Datenschutz</Link></li>
-              <li><Link to="#" className="hover:text-brand-400 transition">AGB</Link></li>
+              <li><Link to="/datenschutz" className="hover:text-medical-400 transition-colors">Datenschutz</Link></li>
+              <li><Link to="/impressum" className="hover:text-medical-400 transition-colors">AGB</Link></li>
               <li><Link to="#" className="hover:text-brand-400 transition">Kontakt</Link></li>
             </ul>
           </div>
