@@ -5,16 +5,20 @@ import JobTeaser from '../components/JobTeaser';
 import ContentSection from '../components/ContentSection';
 import FAQ from '../components/FAQ';
 import CallToAction from '../components/CallToAction';
+import GermanCities from '../components/geo/GermanCities';
+import CareerInfo from '../components/CareerInfo';
 
 const Home: React.FC = () => {
   return (
     <>
       <Hero />
-      <TradeList />
       <JobTeaser />
+      <TradeList />
+      <GermanCities />
       <ContentSection />
       <CallToAction />
       <FAQ />
+      <CareerInfo />
     </>
   );
 };

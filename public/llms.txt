@@ -1,19 +1,42 @@
 # HR-UPDATER: v1.0
 # handwerk-stellen.de - Handwerk Stellenangebote
 
-> handwerk-stellen.de ist ein spezialisiertes Jobportal fuer Handwerk-Stellenangebote in Deutschland, Oesterreich und der Schweiz.
+> handwerk-stellen.de ist ein spezialisiertes Jobportal fuer Handwerk-Stellenangebote in Deutschland, Oesterreich und der Schweiz. Betrieben von der Social Media Venture GmbH.
 
 ## Ueber uns
-- Spezialisiertes Jobportal fuer Handwerk
+- Spezialisiertes Jobportal fuer Handwerk und gewerbliche Berufe
 - Kostenlose Stellensuche fuer Bewerber
 - Gezielte Reichweite fuer Arbeitgeber
+- Ueber 15.000 aktuelle Stellenangebote in allen Handwerksberufen
+- Regionale Jobsuche in allen deutschen Staedten
+
+## Betreiber
+- Firma: Social Media Venture GmbH
+- Geschaeftsfuehrer: Thomas Sander
+- Adresse: Schliemannstrasse 23, 10437 Berlin
+- Telefon: +49 30 959 988 700
+- Website: https://handwerk-stellen.de
 
 ## Kontakt
 - Website: https://handwerk-stellen.de
+- E-Mail: info@socialmediaventure.com
 - Arbeitgeber-Kontakt: https://handwerk-stellen.de/kontakt-arbeitgeber
 - Bewerber-Kontakt: https://handwerk-stellen.de/kontakt-bewerber
 
 ## Inhalte
-- Aktuelle Handwerk-Stellenangebote
-- Karriere-Ratgeber fuer Handwerk
+- Aktuelle Handwerk-Stellenangebote in ganz Deutschland
+- Karriere-Ratgeber fuer Handwerker (Gehaelter, Weiterbildung, Meister)
+- Regionale Jobsuche in allen grossen deutschen Staedten
 - Gehaltsvergleiche und Brancheninformationen
+- Berufsbilder im Handwerk (Elektroniker, SHK, Tischler, Maler, Maurer, KFZ, Metallbau)
+- FAQ fuer Bewerber und Arbeitgeber
+
+## Gewerke
+- Elektrotechnik (Elektroniker, Mechatroniker, Elektroinstallateure)
+- SHK & Heizung (Anlagenmechaniker, Sanitaer, Klimatechnik)
+- Holz & Tischlerei (Tischler, Schreiner, Holzmechaniker)
+- Maler & Lackierer (Maler, Verputzer, Fassadengestaltung)
+- Bau & Maurer (Hochbau, Tiefbau, Stahlbetonbau, Bauleiter)
+- KFZ & Mobilitaet (KFZ-Mechatroniker, Karosseriebauer)
+- Metallbau (Schweisser, Schlosser, Konstruktionsmechaniker)
+- Industrie & Technik (Industriemechaniker, Zerspanungsmechaniker)
