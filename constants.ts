@@ -71,6 +71,60 @@ export const TRADES: TradeCategory[] = [
 export const LATEST_JOBS: JobListing[] = [
   {
     id: 1,
+    title: 'Einrichter (m/w/d) für Kunststoffspritzgussmaschinen',
+    company: 'Medisca GmbH',
+    location: 'Kabelsketal',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-15'
+  },
+  {
+    id: 2,
+    title: 'Zahnarzt (m/w/d)',
+    company: 'MeinDentist Berlin GmbH',
+    location: 'Potsdam',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-15'
+  },
+  {
+    id: 3,
+    title: 'Zahnarzt (m/w/d)',
+    company: 'MeinDentist Berlin GmbH',
+    location: 'Berlin',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-15'
+  },
+  {
+    id: 4,
+    title: 'Mitarbeiter (m/w/d) Finanzbuchhaltung & Digitale Prozesse',
+    company: 'avs SYSTEM LIFT AGSofort-Bewerbung',
+    location: 'Hannover',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-15'
+  },
+  {
+    id: 5,
+    title: 'Mitarbeiter (m/w/d) Finanzbuchhaltung & Digitale Prozesse',
+    company: 'avs SYSTEM LIFT AGSofort-Bewerbung',
+    location: 'Isernhagen',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-15'
+  },
+  {
+    id: 6,
+    title: 'Haustechniker/in (m/w/d) für Bestandsimmobilien mit großer Dienstwohnung',
+    company: 'Neuerburg GrundstücksgemeinschaftSofort-Bewerbung',
+    location: 'Köln',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-15'
+  },
+  {
+    id: 7,
     title: 'Steuerfachangestellter / Steuerfachwirt (m/w/d)',
     company: 'Kreh - Hofmann - Widmer Wirtschaftsprüfer und SteuerberaterSofort-Bewerbung',
     location: 'Babenhausen/Hessen',
@@ -79,7 +133,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 2,
+    id: 8,
     title: 'Fachkraft für Lagerlogistik (m/w/d) in Vollzeit',
     company: 'ProGlass GmbHSofort-Bewerbung',
     location: 'Weilheim an der Teck',
@@ -88,7 +142,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 3,
+    id: 9,
     title: 'Zahntechniker (m/w/d) für den Bereich CAD / CAM',
     company: 'DELABO.GROUPSofort-Bewerbung',
     location: 'Klein Rönnau',
@@ -97,7 +151,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 4,
+    id: 10,
     title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
     company: 'Kinder- und Jugendhilfe Weidenkorb',
     location: 'Löhne',
@@ -106,7 +160,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 5,
+    id: 11,
     title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
     company: 'Kinder- und Jugendhilfe Weidenkorb',
     location: 'Espelkamp',
@@ -115,7 +169,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 6,
+    id: 12,
     title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
     company: 'Kinder- und Jugendhilfe Weidenkorb',
     location: 'Lübbecke',
@@ -124,7 +178,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 7,
+    id: 13,
     title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
     company: 'Kinder- und Jugendhilfe Weidenkorb',
     location: 'Hüllhorst',
@@ -133,7 +187,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 8,
+    id: 14,
     title: 'Fachkraft Stuckateur-Handwerk m/w/d',
     company: 'Mauer Stuckateur GmbH',
     location: 'Wangen im Allgäu',
@@ -142,7 +196,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 9,
+    id: 15,
     title: 'Handwerker (m/w/d)',
     company: 'TJ-Montageservice Küchenmontage',
     location: 'Düsseldorf',
@@ -151,7 +205,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 10,
+    id: 16,
     title: 'Mitarbeiter (m/w/d) im Gartenservice und Handwerk',
     company: 'Norden gartenservice',
     location: 'Husum, Nordsee',
@@ -160,7 +214,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-03'
   },
   {
-    id: 11,
+    id: 17,
     title: 'MetallbauermeisterB. Prof. Metallbauer-Handwerk (m/w/d)',
     company: 'E.D.E.L. Zeitarbeit GmbH',
     location: 'Augsburg, Bayern',
@@ -169,7 +223,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-03'
   },
   {
-    id: 12,
+    id: 18,
     title: 'Kaufmann/-frau für Büromanagement im Handwerk',
     company: 'Werner & Sohn GmbH',
     location: 'Fuldatal',
@@ -178,7 +232,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-03'
   },
   {
-    id: 13,
+    id: 19,
     title: 'Büroleiterin - Handwerk',
     company: 'OSNEBAU GmbH',
     location: 'Obertshausen',
@@ -187,7 +241,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-02'
   },
   {
-    id: 14,
+    id: 20,
     title: 'Elektroniker Automatisierungstechnik Handwerk (m/w/d)',
     company: 'Arena Personal Management GmbH',
     location: 'Frankfurt am Main',
@@ -196,7 +250,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-02'
   },
   {
-    id: 15,
+    id: 21,
     title: 'Metallbauer Handwerk m/w/d',
     company: 'Arena Personal Management GmbH',
     location: 'Heidelberg, Neckar',
@@ -205,7 +259,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-02'
   },
   {
-    id: 16,
+    id: 22,
     title: 'Allrounder – Handwerk (m/w/d)',
     company: 'STÜWA Konrad Stükerjürgen GmbH',
     location: 'Rietberg',
@@ -214,7 +268,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-02'
   },
   {
-    id: 17,
+    id: 23,
     title: 'Malerhelfer (m/w/d) Handwerk',
     company: 'WEISS Personalmanagement GmbH - Darmstadt',
     location: 'Darmstadt',
@@ -223,7 +277,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-02'
   },
   {
-    id: 18,
+    id: 24,
     title: 'Helfer Handwerk m/w/d',
     company: 'Actief Personalmanagement GmbH',
     location: 'Biebelried',
@@ -232,67 +286,13 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-02'
   },
   {
-    id: 19,
+    id: 25,
     title: 'Mitarbeiter im Handwerk (m/w/d)',
     company: 'AlphaConsult KG - Magdeburg',
     location: 'Magdeburg',
     type: 'Vollzeit',
     tags: ['Helfer/in - Metallbau'],
     posted: '2026-03-01'
-  },
-  {
-    id: 20,
-    title: 'Fachhelfer Handwerk (m/w/d)',
-    company: 'AlphaConsult KG - BS Mannheim',
-    location: 'Mannheim',
-    type: 'Vollzeit',
-    tags: ['Helfer/in - Metallbau'],
-    posted: '2026-02-27'
-  },
-  {
-    id: 21,
-    title: 'Mitarbeiter im Handwerk (m/w/d)',
-    company: 'TimePartner Personalmanagement GmbH',
-    location: 'Trier',
-    type: 'Vollzeit',
-    tags: ['Kunsthandwerker/in'],
-    posted: '2026-02-26'
-  },
-  {
-    id: 22,
-    title: 'Produktionsmitarbeiter (m/w/d) Handwerk',
-    company: 'Walter-Fach-Kraft Personal GmbH',
-    location: 'Syke',
-    type: 'Vollzeit',
-    tags: ['Beton- und Stahlbetonbauer/in'],
-    posted: '2026-02-26'
-  },
-  {
-    id: 23,
-    title: 'Maler im Handwerk (m/w/d)',
-    company: 'ARWA Personaldienstleistungen GmbH',
-    location: 'Sarstedt',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Maler/in'],
-    posted: '2026-02-25'
-  },
-  {
-    id: 24,
-    title: 'Quereinsteiger m/w/d im Handwerk',
-    company: 'Isolierungen Leipzig GmbH Abt. P',
-    location: 'Leipzig',
-    type: 'Vollzeit',
-    tags: ['Industrie-Isolierer/in'],
-    posted: '2026-02-24'
-  },
-  {
-    id: 25,
-    title: 'Elektroniker - Automatisierungstechnik (Handwerk) (m/w/d)',
-    company: 'iperdi AHR GmbH - Niederlassung Bremen',
-    location: 'Loxstedt',
-    type: 'Vollzeit',
-    tags: ['Elektroniker/in - Automatisierungstechnik (Handwerk)'],
-    posted: '2026-02-20'
   }
 ];
 
