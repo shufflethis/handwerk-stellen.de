@@ -71,6 +71,60 @@ export const TRADES: TradeCategory[] = [
 export const LATEST_JOBS: JobListing[] = [
   {
     id: 1,
+    title: 'Sachbearbeitung Umsatzsteuer und Kommunalabgaben (m/w/d)',
+    company: 'Gemeinde HudeSofort-Bewerbung',
+    location: 'Hude (Oldb)',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-22'
+  },
+  {
+    id: 2,
+    title: 'Mitarbeiter Kundenservice Online Banking (m/w/d)',
+    company: 'Serviscope AG',
+    location: 'Köln',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-22'
+  },
+  {
+    id: 3,
+    title: 'Mitarbeiter Kundenservice Online Banking (m/w/d)',
+    company: 'Serviscope AG',
+    location: 'Troisdorf',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-22'
+  },
+  {
+    id: 4,
+    title: 'Elektrotechnikerin / Elektrotechniker / Meisterin / Meister (m/w/d) als Projektmitarbeiter Eisenbahn-Signaltechnik',
+    company: 'Scheidt & Bachmann Signalling Systems GmbH',
+    location: 'Düsseldorf',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-22'
+  },
+  {
+    id: 5,
+    title: 'Elektrotechnikerin / Elektrotechniker / Meisterin / Meister (m/w/d) als Projektmitarbeiter Eisenbahn-Signaltechnik',
+    company: 'Scheidt & Bachmann Signalling Systems GmbH',
+    location: 'Mönchengladbach',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-22'
+  },
+  {
+    id: 6,
+    title: 'Elektromonteur Netzbau (m/w/d)',
+    company: 'naturenergie netze GmbH',
+    location: 'Rheinfelden/Baden',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-03-22'
+  },
+  {
+    id: 7,
     title: 'Einrichter (m/w/d) für Kunststoffspritzgussmaschinen',
     company: 'Medisca GmbH',
     location: 'Kabelsketal',
@@ -79,7 +133,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 2,
+    id: 8,
     title: 'Zahnarzt (m/w/d)',
     company: 'MeinDentist Berlin GmbH',
     location: 'Potsdam',
@@ -88,7 +142,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 3,
+    id: 9,
     title: 'Zahnarzt (m/w/d)',
     company: 'MeinDentist Berlin GmbH',
     location: 'Berlin',
@@ -97,7 +151,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 4,
+    id: 10,
     title: 'Mitarbeiter (m/w/d) Finanzbuchhaltung & Digitale Prozesse',
     company: 'avs SYSTEM LIFT AGSofort-Bewerbung',
     location: 'Hannover',
@@ -106,7 +160,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 5,
+    id: 11,
     title: 'Mitarbeiter (m/w/d) Finanzbuchhaltung & Digitale Prozesse',
     company: 'avs SYSTEM LIFT AGSofort-Bewerbung',
     location: 'Isernhagen',
@@ -115,7 +169,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 6,
+    id: 12,
     title: 'Haustechniker/in (m/w/d) für Bestandsimmobilien mit großer Dienstwohnung',
     company: 'Neuerburg GrundstücksgemeinschaftSofort-Bewerbung',
     location: 'Köln',
@@ -124,7 +178,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 7,
+    id: 13,
     title: 'Steuerfachangestellter / Steuerfachwirt (m/w/d)',
     company: 'Kreh - Hofmann - Widmer Wirtschaftsprüfer und SteuerberaterSofort-Bewerbung',
     location: 'Babenhausen/Hessen',
@@ -133,7 +187,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 8,
+    id: 14,
     title: 'Fachkraft für Lagerlogistik (m/w/d) in Vollzeit',
     company: 'ProGlass GmbHSofort-Bewerbung',
     location: 'Weilheim an der Teck',
@@ -142,7 +196,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 9,
+    id: 15,
     title: 'Zahntechniker (m/w/d) für den Bereich CAD / CAM',
     company: 'DELABO.GROUPSofort-Bewerbung',
     location: 'Klein Rönnau',
@@ -151,7 +205,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 10,
+    id: 16,
     title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
     company: 'Kinder- und Jugendhilfe Weidenkorb',
     location: 'Löhne',
@@ -160,7 +214,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 11,
+    id: 17,
     title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
     company: 'Kinder- und Jugendhilfe Weidenkorb',
     location: 'Espelkamp',
@@ -169,7 +223,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 12,
+    id: 18,
     title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
     company: 'Kinder- und Jugendhilfe Weidenkorb',
     location: 'Lübbecke',
@@ -178,7 +232,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 13,
+    id: 19,
     title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
     company: 'Kinder- und Jugendhilfe Weidenkorb',
     location: 'Hüllhorst',
@@ -187,7 +241,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 14,
+    id: 20,
     title: 'Fachkraft Stuckateur-Handwerk m/w/d',
     company: 'Mauer Stuckateur GmbH',
     location: 'Wangen im Allgäu',
@@ -196,7 +250,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 15,
+    id: 21,
     title: 'Handwerker (m/w/d)',
     company: 'TJ-Montageservice Küchenmontage',
     location: 'Düsseldorf',
@@ -205,7 +259,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 16,
+    id: 22,
     title: 'Mitarbeiter (m/w/d) im Gartenservice und Handwerk',
     company: 'Norden gartenservice',
     location: 'Husum, Nordsee',
@@ -214,7 +268,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-03'
   },
   {
-    id: 17,
+    id: 23,
     title: 'MetallbauermeisterB. Prof. Metallbauer-Handwerk (m/w/d)',
     company: 'E.D.E.L. Zeitarbeit GmbH',
     location: 'Augsburg, Bayern',
@@ -223,7 +277,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-03'
   },
   {
-    id: 18,
+    id: 24,
     title: 'Kaufmann/-frau für Büromanagement im Handwerk',
     company: 'Werner & Sohn GmbH',
     location: 'Fuldatal',
@@ -232,67 +286,13 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-03'
   },
   {
-    id: 19,
+    id: 25,
     title: 'Büroleiterin - Handwerk',
     company: 'OSNEBAU GmbH',
     location: 'Obertshausen',
     type: 'Vollzeit',
     tags: ['Büroleiter/in - Handwerk'],
     posted: '2026-03-02'
-  },
-  {
-    id: 20,
-    title: 'Elektroniker Automatisierungstechnik Handwerk (m/w/d)',
-    company: 'Arena Personal Management GmbH',
-    location: 'Frankfurt am Main',
-    type: 'Vollzeit',
-    tags: ['Elektroniker/in - Automatisierungstechnik (Handwerk)'],
-    posted: '2026-03-02'
-  },
-  {
-    id: 21,
-    title: 'Metallbauer Handwerk m/w/d',
-    company: 'Arena Personal Management GmbH',
-    location: 'Heidelberg, Neckar',
-    type: 'Vollzeit',
-    tags: ['Metallbauer/in - Konstruktionstechnik'],
-    posted: '2026-03-02'
-  },
-  {
-    id: 22,
-    title: 'Allrounder – Handwerk (m/w/d)',
-    company: 'STÜWA Konrad Stükerjürgen GmbH',
-    location: 'Rietberg',
-    type: 'Vollzeit',
-    tags: ['Helfer/in - Tiefbau'],
-    posted: '2026-03-02'
-  },
-  {
-    id: 23,
-    title: 'Malerhelfer (m/w/d) Handwerk',
-    company: 'WEISS Personalmanagement GmbH - Darmstadt',
-    location: 'Darmstadt',
-    type: 'Vollzeit',
-    tags: ['Helfer/in - Malerei, Lackiererei'],
-    posted: '2026-03-02'
-  },
-  {
-    id: 24,
-    title: 'Helfer Handwerk m/w/d',
-    company: 'Actief Personalmanagement GmbH',
-    location: 'Biebelried',
-    type: 'Vollzeit',
-    tags: ['Helfer/in - Feinmechanik, Werkzeugbau'],
-    posted: '2026-03-02'
-  },
-  {
-    id: 25,
-    title: 'Mitarbeiter im Handwerk (m/w/d)',
-    company: 'AlphaConsult KG - Magdeburg',
-    location: 'Magdeburg',
-    type: 'Vollzeit',
-    tags: ['Helfer/in - Metallbau'],
-    posted: '2026-03-01'
   }
 ];
 
