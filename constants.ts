@@ -71,6 +71,51 @@ export const TRADES: TradeCategory[] = [
 export const LATEST_JOBS: JobListing[] = [
   {
     id: 1,
+    title: 'Erzieher, Heilpädagoge oder Sozialpädagoge (m/w/d) als Gruppenleitung für die stationäre Jugendhilfe',
+    company: 'Haus Marienthal gGmbHSofort-Bewerbung',
+    location: 'Schweinfurt',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-05'
+  },
+  {
+    id: 2,
+    title: 'Aushilfe Warenverräumung (m/w/d) Minijob bzw. Midijob',
+    company: 'Böge Textil-Service GmbH & Co. KG',
+    location: 'Gelsenkirchen',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-05'
+  },
+  {
+    id: 3,
+    title: 'Aushilfe Warenverräumung (m/w/d) Minijob bzw. Midijob',
+    company: 'Böge Textil-Service GmbH & Co. KG',
+    location: 'Oberhausen',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-05'
+  },
+  {
+    id: 4,
+    title: 'Aushilfe Warenverräumung (m/w/d) Minijob bzw. Midijob',
+    company: 'Böge Textil-Service GmbH & Co. KG',
+    location: 'Moers',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-05'
+  },
+  {
+    id: 5,
+    title: 'Aushilfe Warenverräumung (m/w/d) Minijob bzw. Midijob',
+    company: 'Böge Textil-Service GmbH & Co. KG',
+    location: 'Kamp-Lintfort',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-05'
+  },
+  {
+    id: 6,
     title: 'Elektrotechniker EMSR-Technik (w/m/d)',
     company: 'Infraserv GmbH & Co. Höchst KG',
     location: 'Frankfurt am Main',
@@ -79,7 +124,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-29'
   },
   {
-    id: 2,
+    id: 7,
     title: 'Referent (m/w/d) befristet als Elternzeitvertretung für zwei Jahre',
     company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
     location: 'Langenhagen',
@@ -88,7 +133,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-29'
   },
   {
-    id: 3,
+    id: 8,
     title: 'Referent (m/w/d) befristet als Elternzeitvertretung für zwei Jahre',
     company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
     location: 'Bochum',
@@ -97,7 +142,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-29'
   },
   {
-    id: 4,
+    id: 9,
     title: 'Referent (m/w/d) befristet als Elternzeitvertretung für zwei Jahre',
     company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
     location: 'Ober-Olm',
@@ -106,7 +151,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-29'
   },
   {
-    id: 5,
+    id: 10,
     title: 'Referent (m/w/d) befristet als Elternzeitvertretung für zwei Jahre',
     company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
     location: 'Heidelberg',
@@ -115,7 +160,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-29'
   },
   {
-    id: 6,
+    id: 11,
     title: 'Elektroniker für Betriebstechnik (m/w/d)',
     company: 'OFTEC Oberflächentechnik GmbH & Co. KG',
     location: 'Hagenbach',
@@ -124,7 +169,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-29'
   },
   {
-    id: 7,
+    id: 12,
     title: 'Sachbearbeitung Umsatzsteuer und Kommunalabgaben (m/w/d)',
     company: 'Gemeinde HudeSofort-Bewerbung',
     location: 'Hude (Oldb)',
@@ -133,7 +178,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-22'
   },
   {
-    id: 8,
+    id: 13,
     title: 'Mitarbeiter Kundenservice Online Banking (m/w/d)',
     company: 'Serviscope AG',
     location: 'Köln',
@@ -142,7 +187,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-22'
   },
   {
-    id: 9,
+    id: 14,
     title: 'Mitarbeiter Kundenservice Online Banking (m/w/d)',
     company: 'Serviscope AG',
     location: 'Troisdorf',
@@ -151,7 +196,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-22'
   },
   {
-    id: 10,
+    id: 15,
     title: 'Elektrotechnikerin / Elektrotechniker / Meisterin / Meister (m/w/d) als Projektmitarbeiter Eisenbahn-Signaltechnik',
     company: 'Scheidt & Bachmann Signalling Systems GmbH',
     location: 'Düsseldorf',
@@ -160,7 +205,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-22'
   },
   {
-    id: 11,
+    id: 16,
     title: 'Elektrotechnikerin / Elektrotechniker / Meisterin / Meister (m/w/d) als Projektmitarbeiter Eisenbahn-Signaltechnik',
     company: 'Scheidt & Bachmann Signalling Systems GmbH',
     location: 'Mönchengladbach',
@@ -169,7 +214,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-22'
   },
   {
-    id: 12,
+    id: 17,
     title: 'Elektromonteur Netzbau (m/w/d)',
     company: 'naturenergie netze GmbH',
     location: 'Rheinfelden/Baden',
@@ -178,7 +223,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-22'
   },
   {
-    id: 13,
+    id: 18,
     title: 'Einrichter (m/w/d) für Kunststoffspritzgussmaschinen',
     company: 'Medisca GmbH',
     location: 'Kabelsketal',
@@ -187,7 +232,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 14,
+    id: 19,
     title: 'Zahnarzt (m/w/d)',
     company: 'MeinDentist Berlin GmbH',
     location: 'Potsdam',
@@ -196,7 +241,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 15,
+    id: 20,
     title: 'Zahnarzt (m/w/d)',
     company: 'MeinDentist Berlin GmbH',
     location: 'Berlin',
@@ -205,7 +250,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 16,
+    id: 21,
     title: 'Mitarbeiter (m/w/d) Finanzbuchhaltung & Digitale Prozesse',
     company: 'avs SYSTEM LIFT AGSofort-Bewerbung',
     location: 'Hannover',
@@ -214,7 +259,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 17,
+    id: 22,
     title: 'Mitarbeiter (m/w/d) Finanzbuchhaltung & Digitale Prozesse',
     company: 'avs SYSTEM LIFT AGSofort-Bewerbung',
     location: 'Isernhagen',
@@ -223,7 +268,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 18,
+    id: 23,
     title: 'Haustechniker/in (m/w/d) für Bestandsimmobilien mit großer Dienstwohnung',
     company: 'Neuerburg GrundstücksgemeinschaftSofort-Bewerbung',
     location: 'Köln',
@@ -232,7 +277,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-15'
   },
   {
-    id: 19,
+    id: 24,
     title: 'Steuerfachangestellter / Steuerfachwirt (m/w/d)',
     company: 'Kreh - Hofmann - Widmer Wirtschaftsprüfer und SteuerberaterSofort-Bewerbung',
     location: 'Babenhausen/Hessen',
@@ -241,55 +286,10 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-03-04'
   },
   {
-    id: 20,
+    id: 25,
     title: 'Fachkraft für Lagerlogistik (m/w/d) in Vollzeit',
     company: 'ProGlass GmbHSofort-Bewerbung',
     location: 'Weilheim an der Teck',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-04'
-  },
-  {
-    id: 21,
-    title: 'Zahntechniker (m/w/d) für den Bereich CAD / CAM',
-    company: 'DELABO.GROUPSofort-Bewerbung',
-    location: 'Klein Rönnau',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-04'
-  },
-  {
-    id: 22,
-    title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
-    company: 'Kinder- und Jugendhilfe Weidenkorb',
-    location: 'Löhne',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-04'
-  },
-  {
-    id: 23,
-    title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
-    company: 'Kinder- und Jugendhilfe Weidenkorb',
-    location: 'Espelkamp',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-04'
-  },
-  {
-    id: 24,
-    title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
-    company: 'Kinder- und Jugendhilfe Weidenkorb',
-    location: 'Lübbecke',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-04'
-  },
-  {
-    id: 25,
-    title: 'Hauswirtschaftliche Leitung (m/w/d) für unser Kinderhaus in Teil- oder Vollzeit',
-    company: 'Kinder- und Jugendhilfe Weidenkorb',
-    location: 'Hüllhorst',
     type: 'Vollzeit',
     tags: [],
     posted: '2026-03-04'
