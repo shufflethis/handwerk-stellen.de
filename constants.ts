@@ -71,228 +71,228 @@ export const TRADES: TradeCategory[] = [
 export const LATEST_JOBS: JobListing[] = [
   {
     id: 1,
-    title: 'Erzieher, Heilpädagoge oder Sozialpädagoge (m/w/d) als Gruppenleitung für die stationäre Jugendhilfe',
-    company: 'Haus Marienthal gGmbHSofort-Bewerbung',
-    location: 'Schweinfurt',
+    title: 'Pflegefachkraft (Altenpfleger:in oder Krankenpfleger:in/Gesundheits- u. Krankenpfleger:in o. Kinderkrankenpfleger:in) (m/w/d)',
+    company: 'AZURIT Seniorenzentrum Bautzner BergSofort-Bewerbung',
+    location: 'Kamenz',
     type: 'Vollzeit',
     tags: [],
-    posted: '2026-04-05'
+    posted: '2026-04-12'
   },
   {
     id: 2,
-    title: 'Aushilfe Warenverräumung (m/w/d) Minijob bzw. Midijob',
-    company: 'Böge Textil-Service GmbH & Co. KG',
-    location: 'Gelsenkirchen',
+    title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
+    company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
+    location: 'Köln',
     type: 'Vollzeit',
     tags: [],
-    posted: '2026-04-05'
+    posted: '2026-04-12'
   },
   {
     id: 3,
-    title: 'Aushilfe Warenverräumung (m/w/d) Minijob bzw. Midijob',
-    company: 'Böge Textil-Service GmbH & Co. KG',
-    location: 'Oberhausen',
+    title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
+    company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
+    location: 'Bonn',
     type: 'Vollzeit',
     tags: [],
-    posted: '2026-04-05'
+    posted: '2026-04-12'
   },
   {
     id: 4,
-    title: 'Aushilfe Warenverräumung (m/w/d) Minijob bzw. Midijob',
-    company: 'Böge Textil-Service GmbH & Co. KG',
-    location: 'Moers',
+    title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
+    company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
+    location: 'Leverkusen',
     type: 'Vollzeit',
     tags: [],
-    posted: '2026-04-05'
+    posted: '2026-04-12'
   },
   {
     id: 5,
-    title: 'Aushilfe Warenverräumung (m/w/d) Minijob bzw. Midijob',
-    company: 'Böge Textil-Service GmbH & Co. KG',
-    location: 'Kamp-Lintfort',
+    title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
+    company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
+    location: 'Brühl/Rheinland',
     type: 'Vollzeit',
     tags: [],
-    posted: '2026-04-05'
+    posted: '2026-04-12'
   },
   {
     id: 6,
-    title: 'Elektrotechniker EMSR-Technik (w/m/d)',
-    company: 'Infraserv GmbH & Co. Höchst KG',
-    location: 'Frankfurt am Main',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-29'
-  },
-  {
-    id: 7,
-    title: 'Referent (m/w/d) befristet als Elternzeitvertretung für zwei Jahre',
-    company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
-    location: 'Langenhagen',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-29'
-  },
-  {
-    id: 8,
-    title: 'Referent (m/w/d) befristet als Elternzeitvertretung für zwei Jahre',
-    company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
-    location: 'Bochum',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-29'
-  },
-  {
-    id: 9,
-    title: 'Referent (m/w/d) befristet als Elternzeitvertretung für zwei Jahre',
-    company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
-    location: 'Ober-Olm',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-29'
-  },
-  {
-    id: 10,
-    title: 'Referent (m/w/d) befristet als Elternzeitvertretung für zwei Jahre',
-    company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
-    location: 'Heidelberg',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-29'
-  },
-  {
-    id: 11,
-    title: 'Elektroniker für Betriebstechnik (m/w/d)',
-    company: 'OFTEC Oberflächentechnik GmbH & Co. KG',
-    location: 'Hagenbach',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-29'
-  },
-  {
-    id: 12,
-    title: 'Sachbearbeitung Umsatzsteuer und Kommunalabgaben (m/w/d)',
-    company: 'Gemeinde HudeSofort-Bewerbung',
-    location: 'Hude (Oldb)',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-22'
-  },
-  {
-    id: 13,
-    title: 'Mitarbeiter Kundenservice Online Banking (m/w/d)',
-    company: 'Serviscope AG',
-    location: 'Köln',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-22'
-  },
-  {
-    id: 14,
-    title: 'Mitarbeiter Kundenservice Online Banking (m/w/d)',
-    company: 'Serviscope AG',
-    location: 'Troisdorf',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-22'
-  },
-  {
-    id: 15,
-    title: 'Elektrotechnikerin / Elektrotechniker / Meisterin / Meister (m/w/d) als Projektmitarbeiter Eisenbahn-Signaltechnik',
-    company: 'Scheidt & Bachmann Signalling Systems GmbH',
-    location: 'Düsseldorf',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-22'
-  },
-  {
-    id: 16,
-    title: 'Elektrotechnikerin / Elektrotechniker / Meisterin / Meister (m/w/d) als Projektmitarbeiter Eisenbahn-Signaltechnik',
-    company: 'Scheidt & Bachmann Signalling Systems GmbH',
-    location: 'Mönchengladbach',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-22'
-  },
-  {
-    id: 17,
-    title: 'Elektromonteur Netzbau (m/w/d)',
-    company: 'naturenergie netze GmbH',
-    location: 'Rheinfelden/Baden',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-22'
-  },
-  {
-    id: 18,
-    title: 'Einrichter (m/w/d) für Kunststoffspritzgussmaschinen',
-    company: 'Medisca GmbH',
-    location: 'Kabelsketal',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-15'
-  },
-  {
-    id: 19,
-    title: 'Zahnarzt (m/w/d)',
-    company: 'MeinDentist Berlin GmbH',
-    location: 'Potsdam',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-15'
-  },
-  {
-    id: 20,
-    title: 'Zahnarzt (m/w/d)',
-    company: 'MeinDentist Berlin GmbH',
+    title: 'Vorarbeiter Reinigung in Vollzeit (m/w/d)',
+    company: 'Albert Schweitzer Stiftung - Wohnen & Betreuen',
     location: 'Berlin',
     type: 'Vollzeit',
     tags: [],
-    posted: '2026-03-15'
+    posted: '2026-04-12'
+  },
+  {
+    id: 7,
+    title: 'Verkäufer Handwerk  (m/w/d)',
+    company: 'I.K. Hofmann GmbH Regensburg II',
+    location: 'Schierling',
+    type: 'Vollzeit',
+    tags: ['Verkaufsberater/in'],
+    posted: '2026-04-10'
+  },
+  {
+    id: 8,
+    title: 'Handwerker m/w/d',
+    company: 'NIHS GmbH',
+    location: 'Lilienthal bei Bremen',
+    type: 'Vollzeit',
+    tags: ['Isolierer/in'],
+    posted: '2026-04-10'
+  },
+  {
+    id: 9,
+    title: 'Betriebsassistent/in - Handwerk',
+    company: 'Oldtimer Restaurant Betriebsgesellschaft m.b.H.',
+    location: 'Unterauerling',
+    type: 'Vollzeit',
+    tags: ['Betriebsassistent/in - Handwerk'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 10,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich Schmid GmbH & Co. KG',
+    location: 'Amt Wachsenburg',
+    type: 'Vollzeit',
+    tags: ['Bodenleger/in'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 11,
+    title: 'Maler im Handwerk (m/w/d)',
+    company: 'ARWA Personaldienstleistungen GmbH',
+    location: 'Rodewisch',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Maler/in'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 12,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich Schmid GmbH & Co. KG',
+    location: 'Gera',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 13,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich Schmid GmbH & Co. KG Projekt- u. Baumanagement',
+    location: 'Chemnitz, Sachsen',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 14,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich Schmid GmbH & Co. KG Heinrich Schmid GmbH & Co. KG Heinrich Schmid GmbH & Co. KG',
+    location: 'Zwickau',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 15,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich Schmid GmbH & Co. KG',
+    location: 'Tann (Rhön)',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 16,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich Schmid GmbH & Co. KG',
+    location: 'Suhl',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 17,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich Schmid GmbH & Co. KG',
+    location: 'Plauen, Vogtland',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 18,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich Schmid GmbH & Co. KG',
+    location: 'Erfurt',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 19,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich-Schmid GmbH & CO. KG Wladimir - Sagorski -Straße Wladimir - Sagor GmbH & Co. KG',
+    location: 'Bischofswerda',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
+    posted: '2026-04-09'
+  },
+  {
+    id: 20,
+    title: 'Praktikant im Handwerk (m/w/d)',
+    company: 'Heinrich Schmid GmbH & Co. KG',
+    location: 'Fulda',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
+    posted: '2026-04-09'
   },
   {
     id: 21,
-    title: 'Mitarbeiter (m/w/d) Finanzbuchhaltung & Digitale Prozesse',
-    company: 'avs SYSTEM LIFT AGSofort-Bewerbung',
-    location: 'Hannover',
+    title: 'Handwerker (m/w/d)',
+    company: 'Fair GmbH & Co. KG Personal u. Qualifizierung Personaldienstleistungen',
+    location: 'Schüttorf',
     type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-15'
+    tags: ['Tischler/in'],
+    posted: '2026-04-09'
   },
   {
     id: 22,
-    title: 'Mitarbeiter (m/w/d) Finanzbuchhaltung & Digitale Prozesse',
-    company: 'avs SYSTEM LIFT AGSofort-Bewerbung',
-    location: 'Isernhagen',
+    title: 'Projektabrechner/-in im Handwerk (m/w/d)',
+    company: 'Karl Fromme GmbH u Co KG Bauunternehmung',
+    location: 'Marl, Westfalen',
     type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-15'
+    tags: ['Bauabrechner/in'],
+    posted: '2026-04-08'
   },
   {
     id: 23,
-    title: 'Haustechniker/in (m/w/d) für Bestandsimmobilien mit großer Dienstwohnung',
-    company: 'Neuerburg GrundstücksgemeinschaftSofort-Bewerbung',
-    location: 'Köln',
+    title: 'Handwerker (m/w/d)',
+    company: 'Median 5 IV GmbH',
+    location: 'Landsberg bei Halle, Saale',
     type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-15'
+    tags: ['Tischler/in'],
+    posted: '2026-04-08'
   },
   {
     id: 24,
-    title: 'Steuerfachangestellter / Steuerfachwirt (m/w/d)',
-    company: 'Kreh - Hofmann - Widmer Wirtschaftsprüfer und SteuerberaterSofort-Bewerbung',
-    location: 'Babenhausen/Hessen',
+    title: 'Helfer (m/w/d) im Handwerk',
+    company: 'Office People Personalmanagment GmbH Wilhelmshaven',
+    location: 'Wilhelmshaven',
     type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-04'
+    tags: ['Helfer/in - Holz, Flechtwaren'],
+    posted: '2026-04-07'
   },
   {
     id: 25,
-    title: 'Fachkraft für Lagerlogistik (m/w/d) in Vollzeit',
-    company: 'ProGlass GmbHSofort-Bewerbung',
-    location: 'Weilheim an der Teck',
+    title: 'Maschinenführer (m/w/d) Handwerk',
+    company: 'Office People Personalmanagment GmbH Osnabrück',
+    location: 'Borgholzhausen',
     type: 'Vollzeit',
-    tags: [],
-    posted: '2026-03-04'
+    tags: ['Bautischler/in'],
+    posted: '2026-04-07'
   }
 ];
 
