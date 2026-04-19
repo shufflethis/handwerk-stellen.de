@@ -71,6 +71,60 @@ export const TRADES: TradeCategory[] = [
 export const LATEST_JOBS: JobListing[] = [
   {
     id: 1,
+    title: 'Bürokaufmann / Assistenz (m/w/d) Immobilienunternehmen in Schönefeld bei Berlin',
+    company: 'Vasto GmbH',
+    location: 'Schönefeld',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-19'
+  },
+  {
+    id: 2,
+    title: 'Ausbildung Prüfingenieur/-in (m/w/d) bzw. Sachverständige/-r (m/w/d) für den Tätigkeitsbereich Fahrzeugprüfung und Fahrerlaubnisprüfung',
+    company: 'TÜV Technische Überwachung Hessen GmbH',
+    location: 'Frankenberg/Eder',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-19'
+  },
+  {
+    id: 3,
+    title: 'Ausbildung Prüfingenieur/-in (m/w/d) bzw. Sachverständige/-r (m/w/d) für den Tätigkeitsbereich Fahrzeugprüfung und Fahrerlaubnisprüfung',
+    company: 'TÜV Technische Überwachung Hessen GmbH',
+    location: 'Korbach',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-19'
+  },
+  {
+    id: 4,
+    title: 'Senior Specialist HR Business Partner (m/w/d) - Elternzeitvertretung',
+    company: 'UPM - The Biofore Company',
+    location: 'Hamburg',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-19'
+  },
+  {
+    id: 5,
+    title: 'Senior Specialist HR Business Partner (m/w/d) - Elternzeitvertretung',
+    company: 'UPM - The Biofore Company',
+    location: 'Augsburg',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-19'
+  },
+  {
+    id: 6,
+    title: 'Arzt/Ärztin (m/w/d) im Amtsärztlichen Dienst als Leitung der medizinischen Dienste des Gesundheitsamtes',
+    company: 'Kreis EuskirchenSofort-Bewerbung',
+    location: 'Euskirchen',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-19'
+  },
+  {
+    id: 7,
     title: 'Pflegefachkraft (Altenpfleger:in oder Krankenpfleger:in/Gesundheits- u. Krankenpfleger:in o. Kinderkrankenpfleger:in) (m/w/d)',
     company: 'AZURIT Seniorenzentrum Bautzner BergSofort-Bewerbung',
     location: 'Kamenz',
@@ -79,7 +133,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 2,
+    id: 8,
     title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
     company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
     location: 'Köln',
@@ -88,7 +142,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 3,
+    id: 9,
     title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
     company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
     location: 'Bonn',
@@ -97,7 +151,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 4,
+    id: 10,
     title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
     company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
     location: 'Leverkusen',
@@ -106,7 +160,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 5,
+    id: 11,
     title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
     company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
     location: 'Brühl/Rheinland',
@@ -115,7 +169,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 6,
+    id: 12,
     title: 'Vorarbeiter Reinigung in Vollzeit (m/w/d)',
     company: 'Albert Schweitzer Stiftung - Wohnen & Betreuen',
     location: 'Berlin',
@@ -124,7 +178,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 7,
+    id: 13,
     title: 'Verkäufer Handwerk  (m/w/d)',
     company: 'I.K. Hofmann GmbH Regensburg II',
     location: 'Schierling',
@@ -133,7 +187,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-10'
   },
   {
-    id: 8,
+    id: 14,
     title: 'Handwerker m/w/d',
     company: 'NIHS GmbH',
     location: 'Lilienthal bei Bremen',
@@ -142,7 +196,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-10'
   },
   {
-    id: 9,
+    id: 15,
     title: 'Betriebsassistent/in - Handwerk',
     company: 'Oldtimer Restaurant Betriebsgesellschaft m.b.H.',
     location: 'Unterauerling',
@@ -151,7 +205,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 10,
+    id: 16,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Amt Wachsenburg',
@@ -160,7 +214,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 11,
+    id: 17,
     title: 'Maler im Handwerk (m/w/d)',
     company: 'ARWA Personaldienstleistungen GmbH',
     location: 'Rodewisch',
@@ -169,7 +223,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 12,
+    id: 18,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Gera',
@@ -178,7 +232,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 13,
+    id: 19,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG Projekt- u. Baumanagement',
     location: 'Chemnitz, Sachsen',
@@ -187,7 +241,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 14,
+    id: 20,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG Heinrich Schmid GmbH & Co. KG Heinrich Schmid GmbH & Co. KG',
     location: 'Zwickau',
@@ -196,7 +250,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 15,
+    id: 21,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Tann (Rhön)',
@@ -205,7 +259,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 16,
+    id: 22,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Suhl',
@@ -214,7 +268,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 17,
+    id: 23,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Plauen, Vogtland',
@@ -223,7 +277,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 18,
+    id: 24,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Erfurt',
@@ -232,67 +286,13 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 19,
+    id: 25,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich-Schmid GmbH & CO. KG Wladimir - Sagorski -Straße Wladimir - Sagor GmbH & Co. KG',
     location: 'Bischofswerda',
     type: 'Vollzeit',
     tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
     posted: '2026-04-09'
-  },
-  {
-    id: 20,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich Schmid GmbH & Co. KG',
-    location: 'Fulda',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 21,
-    title: 'Handwerker (m/w/d)',
-    company: 'Fair GmbH & Co. KG Personal u. Qualifizierung Personaldienstleistungen',
-    location: 'Schüttorf',
-    type: 'Vollzeit',
-    tags: ['Tischler/in'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 22,
-    title: 'Projektabrechner/-in im Handwerk (m/w/d)',
-    company: 'Karl Fromme GmbH u Co KG Bauunternehmung',
-    location: 'Marl, Westfalen',
-    type: 'Vollzeit',
-    tags: ['Bauabrechner/in'],
-    posted: '2026-04-08'
-  },
-  {
-    id: 23,
-    title: 'Handwerker (m/w/d)',
-    company: 'Median 5 IV GmbH',
-    location: 'Landsberg bei Halle, Saale',
-    type: 'Vollzeit',
-    tags: ['Tischler/in'],
-    posted: '2026-04-08'
-  },
-  {
-    id: 24,
-    title: 'Helfer (m/w/d) im Handwerk',
-    company: 'Office People Personalmanagment GmbH Wilhelmshaven',
-    location: 'Wilhelmshaven',
-    type: 'Vollzeit',
-    tags: ['Helfer/in - Holz, Flechtwaren'],
-    posted: '2026-04-07'
-  },
-  {
-    id: 25,
-    title: 'Maschinenführer (m/w/d) Handwerk',
-    company: 'Office People Personalmanagment GmbH Osnabrück',
-    location: 'Borgholzhausen',
-    type: 'Vollzeit',
-    tags: ['Bautischler/in'],
-    posted: '2026-04-07'
   }
 ];
 
