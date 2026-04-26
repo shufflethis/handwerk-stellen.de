@@ -71,6 +71,33 @@ export const TRADES: TradeCategory[] = [
 export const LATEST_JOBS: JobListing[] = [
   {
     id: 1,
+    title: 'Vertriebsmitarbeiter (m/w/d) Maschinenbau und Fertigungstechnik',
+    company: 'Berner + Straller GmbHSofort-Bewerbung',
+    location: 'Nürnberg',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-26'
+  },
+  {
+    id: 2,
+    title: 'Sachbearbeiter/in (m/w/d) KAT 3 BK',
+    company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
+    location: 'Ober-Olm',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-26'
+  },
+  {
+    id: 3,
+    title: 'Sachbearbeiter/in (m/w/d) KAT 3 BK',
+    company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
+    location: 'Heidelberg',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-04-26'
+  },
+  {
+    id: 4,
     title: 'Bürokaufmann / Assistenz (m/w/d) Immobilienunternehmen in Schönefeld bei Berlin',
     company: 'Vasto GmbH',
     location: 'Schönefeld',
@@ -79,7 +106,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 2,
+    id: 5,
     title: 'Ausbildung Prüfingenieur/-in (m/w/d) bzw. Sachverständige/-r (m/w/d) für den Tätigkeitsbereich Fahrzeugprüfung und Fahrerlaubnisprüfung',
     company: 'TÜV Technische Überwachung Hessen GmbH',
     location: 'Frankenberg/Eder',
@@ -88,7 +115,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 3,
+    id: 6,
     title: 'Ausbildung Prüfingenieur/-in (m/w/d) bzw. Sachverständige/-r (m/w/d) für den Tätigkeitsbereich Fahrzeugprüfung und Fahrerlaubnisprüfung',
     company: 'TÜV Technische Überwachung Hessen GmbH',
     location: 'Korbach',
@@ -97,7 +124,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 4,
+    id: 7,
     title: 'Senior Specialist HR Business Partner (m/w/d) - Elternzeitvertretung',
     company: 'UPM - The Biofore Company',
     location: 'Hamburg',
@@ -106,7 +133,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 5,
+    id: 8,
     title: 'Senior Specialist HR Business Partner (m/w/d) - Elternzeitvertretung',
     company: 'UPM - The Biofore Company',
     location: 'Augsburg',
@@ -115,7 +142,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 6,
+    id: 9,
     title: 'Arzt/Ärztin (m/w/d) im Amtsärztlichen Dienst als Leitung der medizinischen Dienste des Gesundheitsamtes',
     company: 'Kreis EuskirchenSofort-Bewerbung',
     location: 'Euskirchen',
@@ -124,7 +151,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 7,
+    id: 10,
     title: 'Pflegefachkraft (Altenpfleger:in oder Krankenpfleger:in/Gesundheits- u. Krankenpfleger:in o. Kinderkrankenpfleger:in) (m/w/d)',
     company: 'AZURIT Seniorenzentrum Bautzner BergSofort-Bewerbung',
     location: 'Kamenz',
@@ -133,7 +160,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 8,
+    id: 11,
     title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
     company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
     location: 'Köln',
@@ -142,7 +169,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 9,
+    id: 12,
     title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
     company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
     location: 'Bonn',
@@ -151,7 +178,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 10,
+    id: 13,
     title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
     company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
     location: 'Leverkusen',
@@ -160,7 +187,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 11,
+    id: 14,
     title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
     company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
     location: 'Brühl/Rheinland',
@@ -169,7 +196,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 12,
+    id: 15,
     title: 'Vorarbeiter Reinigung in Vollzeit (m/w/d)',
     company: 'Albert Schweitzer Stiftung - Wohnen & Betreuen',
     location: 'Berlin',
@@ -178,7 +205,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-12'
   },
   {
-    id: 13,
+    id: 16,
     title: 'Verkäufer Handwerk  (m/w/d)',
     company: 'I.K. Hofmann GmbH Regensburg II',
     location: 'Schierling',
@@ -187,7 +214,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-10'
   },
   {
-    id: 14,
+    id: 17,
     title: 'Handwerker m/w/d',
     company: 'NIHS GmbH',
     location: 'Lilienthal bei Bremen',
@@ -196,7 +223,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-10'
   },
   {
-    id: 15,
+    id: 18,
     title: 'Betriebsassistent/in - Handwerk',
     company: 'Oldtimer Restaurant Betriebsgesellschaft m.b.H.',
     location: 'Unterauerling',
@@ -205,7 +232,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 16,
+    id: 19,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Amt Wachsenburg',
@@ -214,7 +241,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 17,
+    id: 20,
     title: 'Maler im Handwerk (m/w/d)',
     company: 'ARWA Personaldienstleistungen GmbH',
     location: 'Rodewisch',
@@ -223,7 +250,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 18,
+    id: 21,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Gera',
@@ -232,7 +259,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 19,
+    id: 22,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG Projekt- u. Baumanagement',
     location: 'Chemnitz, Sachsen',
@@ -241,7 +268,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 20,
+    id: 23,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG Heinrich Schmid GmbH & Co. KG Heinrich Schmid GmbH & Co. KG',
     location: 'Zwickau',
@@ -250,7 +277,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 21,
+    id: 24,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Tann (Rhön)',
@@ -259,37 +286,10 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-09'
   },
   {
-    id: 22,
+    id: 25,
     title: 'Praktikant im Handwerk (m/w/d)',
     company: 'Heinrich Schmid GmbH & Co. KG',
     location: 'Suhl',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 23,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich Schmid GmbH & Co. KG',
-    location: 'Plauen, Vogtland',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 24,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich Schmid GmbH & Co. KG',
-    location: 'Erfurt',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 25,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich-Schmid GmbH & CO. KG Wladimir - Sagorski -Straße Wladimir - Sagor GmbH & Co. KG',
-    location: 'Bischofswerda',
     type: 'Vollzeit',
     tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
     posted: '2026-04-09'
