@@ -71,6 +71,150 @@ export const TRADES: TradeCategory[] = [
 export const LATEST_JOBS: JobListing[] = [
   {
     id: 1,
+    title: 'Diabetesberater / Diabetesberaterin (m/w/d) - planbare Zeiten & weniger Stress',
+    company: 'Vantis MVZ GmbH',
+    location: 'Düsseldorf',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-05-03'
+  },
+  {
+    id: 2,
+    title: 'Gruppenhelfer im pädagogischen Bereich (m/w/d)',
+    company: 'Werkstätten Hainbachtal gemeinnützige GmbHSofort-Bewerbung',
+    location: 'Offenbach/Main',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-05-03'
+  },
+  {
+    id: 3,
+    title: 'Gruppenhelfer im pädagogischen Bereich (m/w/d)',
+    company: 'Werkstätten Hainbachtal gemeinnützige GmbHSofort-Bewerbung',
+    location: 'Rödermark',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-05-03'
+  },
+  {
+    id: 4,
+    title: 'Lagerlogistik / Experte für SAP EWM (m/w/d)',
+    company: 'Pfeifer & Langen Logistik GmbHSofort-Bewerbung',
+    location: 'Könnern',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-05-03'
+  },
+  {
+    id: 5,
+    title: 'Lagerlogistik / Experte für SAP EWM (m/w/d)',
+    company: 'Pfeifer & Langen Logistik GmbHSofort-Bewerbung',
+    location: 'Elsdorf/Rheinland',
+    type: 'Vollzeit',
+    tags: [],
+    posted: '2026-05-03'
+  },
+  {
+    id: 6,
+    title: 'Helfer - Handwerk (m/w/d)',
+    company: 'iperdi AHR GmbH - Niederlassung Stade',
+    location: 'Stade, Niederelbe',
+    type: 'Vollzeit',
+    tags: ['Lager- und Transportarbeiter/in'],
+    posted: '2026-05-01'
+  },
+  {
+    id: 7,
+    title: 'Mitarbeiter (m/w/d) im Handwerk',
+    company: 'Stewe Personalservice GmbH & Co. KG - Niederlassung Wissen',
+    location: 'Wissen, Sieg',
+    type: 'Vollzeit',
+    tags: ['Helfer/in - Ausbau'],
+    posted: '2026-05-01'
+  },
+  {
+    id: 8,
+    title: 'Helfer - Handwerk (m/w/d)',
+    company: 'Tempton Personaldienstleistungen GmbH NL Münster',
+    location: 'Münster, Westfalen',
+    type: 'Vollzeit',
+    tags: ['Helfer/in - Glasherstellung und -verarbeitung'],
+    posted: '2026-05-01'
+  },
+  {
+    id: 9,
+    title: 'Maler im Handwerk (m/w/d) dringend',
+    company: 'ARWA Personaldienstleistungen GmbH',
+    location: 'Ebersdorf bei Coburg',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Tapezierer/in'],
+    posted: '2026-05-01'
+  },
+  {
+    id: 10,
+    title: 'Bürofachkraft im Handwerk m/w/d',
+    company: 'Hans Frey Rolladen & Sonnenschutz GmbH',
+    location: 'Fellbach, Württemberg',
+    type: 'Vollzeit',
+    tags: ['Kaufmännische Fachkraft'],
+    posted: '2026-04-30'
+  },
+  {
+    id: 11,
+    title: 'Helfer - Handwerk (m/w/d)',
+    company: 'iperdi AHR GmbH - Niederlassung Harburg',
+    location: 'Hamburg',
+    type: 'Vollzeit',
+    tags: ['Helfer/in - Feinmechanik, Werkzeugbau'],
+    posted: '2026-04-30'
+  },
+  {
+    id: 12,
+    title: 'Helfer (m/w/d) Handwerk',
+    company: 'akut... Kompetente Lösungen GmbH',
+    location: 'Salzgitter',
+    type: 'Vollzeit',
+    tags: ['Helfer/in - Malerei, Lackiererei'],
+    posted: '2026-04-30'
+  },
+  {
+    id: 13,
+    title: 'Maler im Handwerk (m/w/d)',
+    company: 'ARWA Personaldienstleistungen GmbH',
+    location: 'Ilmenau, Thüringen',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Maler/in'],
+    posted: '2026-04-29'
+  },
+  {
+    id: 14,
+    title: 'Maler im Handwerk (m/w/d)',
+    company: 'ARWA Personaldienstleistungen GmbH',
+    location: 'Montabaur',
+    type: 'Vollzeit',
+    tags: ['Maler/in und Lackierer/in - Maler/in'],
+    posted: '2026-04-29'
+  },
+  {
+    id: 15,
+    title: 'Handwerk Allrounder (m/w/d)',
+    company: 'Lehmann Personalmanagement GmbH',
+    location: 'München',
+    type: 'Vollzeit',
+    tags: ['Fachkraft - Gebäudetechnik'],
+    posted: '2026-04-28'
+  },
+  {
+    id: 16,
+    title: 'Vertriebsmitarbeiter, Handwerk Handels GmbH',
+    company: 'Handwerk Handels GmbH',
+    location: 'Apolda',
+    type: 'Vollzeit',
+    tags: ['Vertriebsassistent/in'],
+    posted: '2026-04-27'
+  },
+  {
+    id: 17,
     title: 'Vertriebsmitarbeiter (m/w/d) Maschinenbau und Fertigungstechnik',
     company: 'Berner + Straller GmbHSofort-Bewerbung',
     location: 'Nürnberg',
@@ -79,7 +223,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-26'
   },
   {
-    id: 2,
+    id: 18,
     title: 'Sachbearbeiter/in (m/w/d) KAT 3 BK',
     company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
     location: 'Ober-Olm',
@@ -88,7 +232,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-26'
   },
   {
-    id: 3,
+    id: 19,
     title: 'Sachbearbeiter/in (m/w/d) KAT 3 BK',
     company: 'Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI)',
     location: 'Heidelberg',
@@ -97,7 +241,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-26'
   },
   {
-    id: 4,
+    id: 20,
     title: 'Bürokaufmann / Assistenz (m/w/d) Immobilienunternehmen in Schönefeld bei Berlin',
     company: 'Vasto GmbH',
     location: 'Schönefeld',
@@ -106,7 +250,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 5,
+    id: 21,
     title: 'Ausbildung Prüfingenieur/-in (m/w/d) bzw. Sachverständige/-r (m/w/d) für den Tätigkeitsbereich Fahrzeugprüfung und Fahrerlaubnisprüfung',
     company: 'TÜV Technische Überwachung Hessen GmbH',
     location: 'Frankenberg/Eder',
@@ -115,7 +259,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 6,
+    id: 22,
     title: 'Ausbildung Prüfingenieur/-in (m/w/d) bzw. Sachverständige/-r (m/w/d) für den Tätigkeitsbereich Fahrzeugprüfung und Fahrerlaubnisprüfung',
     company: 'TÜV Technische Überwachung Hessen GmbH',
     location: 'Korbach',
@@ -124,7 +268,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 7,
+    id: 23,
     title: 'Senior Specialist HR Business Partner (m/w/d) - Elternzeitvertretung',
     company: 'UPM - The Biofore Company',
     location: 'Hamburg',
@@ -133,7 +277,7 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 8,
+    id: 24,
     title: 'Senior Specialist HR Business Partner (m/w/d) - Elternzeitvertretung',
     company: 'UPM - The Biofore Company',
     location: 'Augsburg',
@@ -142,157 +286,13 @@ export const LATEST_JOBS: JobListing[] = [
     posted: '2026-04-19'
   },
   {
-    id: 9,
+    id: 25,
     title: 'Arzt/Ärztin (m/w/d) im Amtsärztlichen Dienst als Leitung der medizinischen Dienste des Gesundheitsamtes',
     company: 'Kreis EuskirchenSofort-Bewerbung',
     location: 'Euskirchen',
     type: 'Vollzeit',
     tags: [],
     posted: '2026-04-19'
-  },
-  {
-    id: 10,
-    title: 'Pflegefachkraft (Altenpfleger:in oder Krankenpfleger:in/Gesundheits- u. Krankenpfleger:in o. Kinderkrankenpfleger:in) (m/w/d)',
-    company: 'AZURIT Seniorenzentrum Bautzner BergSofort-Bewerbung',
-    location: 'Kamenz',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-04-12'
-  },
-  {
-    id: 11,
-    title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
-    company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
-    location: 'Köln',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-04-12'
-  },
-  {
-    id: 12,
-    title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
-    company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
-    location: 'Bonn',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-04-12'
-  },
-  {
-    id: 13,
-    title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
-    company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
-    location: 'Leverkusen',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-04-12'
-  },
-  {
-    id: 14,
-    title: 'Fahrzeuglackierer (m/w/d) für mobile Kfz-Lackierarbeiten im Außendienst in Vollzeit',
-    company: 'Einzelunternehmen Andreas SchmitzSofort-Bewerbung',
-    location: 'Brühl/Rheinland',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-04-12'
-  },
-  {
-    id: 15,
-    title: 'Vorarbeiter Reinigung in Vollzeit (m/w/d)',
-    company: 'Albert Schweitzer Stiftung - Wohnen & Betreuen',
-    location: 'Berlin',
-    type: 'Vollzeit',
-    tags: [],
-    posted: '2026-04-12'
-  },
-  {
-    id: 16,
-    title: 'Verkäufer Handwerk  (m/w/d)',
-    company: 'I.K. Hofmann GmbH Regensburg II',
-    location: 'Schierling',
-    type: 'Vollzeit',
-    tags: ['Verkaufsberater/in'],
-    posted: '2026-04-10'
-  },
-  {
-    id: 17,
-    title: 'Handwerker m/w/d',
-    company: 'NIHS GmbH',
-    location: 'Lilienthal bei Bremen',
-    type: 'Vollzeit',
-    tags: ['Isolierer/in'],
-    posted: '2026-04-10'
-  },
-  {
-    id: 18,
-    title: 'Betriebsassistent/in - Handwerk',
-    company: 'Oldtimer Restaurant Betriebsgesellschaft m.b.H.',
-    location: 'Unterauerling',
-    type: 'Vollzeit',
-    tags: ['Betriebsassistent/in - Handwerk'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 19,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich Schmid GmbH & Co. KG',
-    location: 'Amt Wachsenburg',
-    type: 'Vollzeit',
-    tags: ['Bodenleger/in'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 20,
-    title: 'Maler im Handwerk (m/w/d)',
-    company: 'ARWA Personaldienstleistungen GmbH',
-    location: 'Rodewisch',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Maler/in'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 21,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich Schmid GmbH & Co. KG',
-    location: 'Gera',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 22,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich Schmid GmbH & Co. KG Projekt- u. Baumanagement',
-    location: 'Chemnitz, Sachsen',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 23,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich Schmid GmbH & Co. KG Heinrich Schmid GmbH & Co. KG Heinrich Schmid GmbH & Co. KG',
-    location: 'Zwickau',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 24,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich Schmid GmbH & Co. KG',
-    location: 'Tann (Rhön)',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
-    posted: '2026-04-09'
-  },
-  {
-    id: 25,
-    title: 'Praktikant im Handwerk (m/w/d)',
-    company: 'Heinrich Schmid GmbH & Co. KG',
-    location: 'Suhl',
-    type: 'Vollzeit',
-    tags: ['Maler/in und Lackierer/in - Gestaltung und Instandhaltung'],
-    posted: '2026-04-09'
   }
 ];
 
